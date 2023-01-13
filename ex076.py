@@ -1,3 +1,7 @@
+'''Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos
+preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em
+forma tabular.'''
+
 listagem = ('Caneta', 2, 'Lápis', 1.50, 'caderno', 15.50, 'Mochila', 250,
             'Estojo', 15, 'Livro', 22.50)
 print('-'*40)

@@ -42,5 +42,3 @@ for p in galera:
         print('<<<<  ENCERRADO  >>>> ')
 
 
-
-
